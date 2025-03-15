@@ -1,5 +1,5 @@
-[![](https://img.shields.io/github/tag/magiconair/properties.svg?style=flat-square&label=release)](https://github.com/kiber-io/properties/releases)
-[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg?style=flat-square)](https://raw.githubusercontent.com/magiconair/properties/master/LICENSE)
+[![](https://img.shields.io/github/tag/kiber-io/properties.svg?style=flat-square&label=release)](https://github.com/kiber-io/properties/releases)
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg?style=flat-square)](https://raw.githubusercontent.com/kiber-io/properties/master/LICENSE)
 [![GoDoc](http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](http://godoc.org/github.com/kiber-io/properties)
 
 # Overview
