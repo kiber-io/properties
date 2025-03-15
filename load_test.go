@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/magiconair/properties/assert"
+	"github.com/kiber-io/properties/assert"
 )
 
 func TestEncoding(t *testing.T) {

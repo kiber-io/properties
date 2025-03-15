@@ -1,6 +1,6 @@
-[![](https://img.shields.io/github/tag/magiconair/properties.svg?style=flat-square&label=release)](https://github.com/magiconair/properties/releases)
+[![](https://img.shields.io/github/tag/magiconair/properties.svg?style=flat-square&label=release)](https://github.com/kiber-io/properties/releases)
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg?style=flat-square)](https://raw.githubusercontent.com/magiconair/properties/master/LICENSE)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](http://godoc.org/github.com/magiconair/properties)
+[![GoDoc](http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](http://godoc.org/github.com/kiber-io/properties)
 
 # Overview
 
@@ -26,14 +26,14 @@ changed from `panic` to `log.Fatal` but this is configurable and custom
 error handling functions can be provided. See the package documentation for
 details.
 
-Read the full documentation on [![GoDoc](http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](http://godoc.org/github.com/magiconair/properties)
+Read the full documentation on [![GoDoc](http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](http://godoc.org/github.com/kiber-io/properties)
 
 ## Getting Started
 
 ```go
 import (
 	"flag"
-	"github.com/magiconair/properties"
+	"github.com/kiber-io/properties"
 )
 
 func main() {
@@ -86,12 +86,12 @@ func main() {
 ## Installation and Upgrade
 
 ```
-$ go get -u github.com/magiconair/properties
+$ go get -u github.com/kiber-io/properties
 ```
 
 ## License
 
-2 clause BSD license. See [LICENSE](https://github.com/magiconair/properties/blob/master/LICENSE) file for details.
+2 clause BSD license. See [LICENSE](https://github.com/kiber-io/properties/blob/master/LICENSE) file for details.
 
 ## ToDo
 
